@@ -6,7 +6,7 @@ Here's a brief and comprehensive version of my application:
 
 This project is a full-stack user authentication system built with Next.js (frontend) and Node.js (backend), featuring login with OTP, user registration with image upload, and account deletion.
 
----
+---  
 
 Project Structure:
 
